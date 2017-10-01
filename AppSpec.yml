@@ -1,7 +1,5 @@
 version: 0.1
 os: linux
 files:
-  - source: Config/config.txt
-    destination: /var/www/html
-  - source: source
+  - source: /
     destination: /var/www/html
