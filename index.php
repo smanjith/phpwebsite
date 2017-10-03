@@ -4,8 +4,8 @@
 </head>
 <body>
 <?php 
-echo "Hello, World Again Testing"
-echo "Hello,Congratulations"
+echo "Hello, World Again Testing";
+echo "Hello,Congratulations";
 ?>
 </body>
 </html>
